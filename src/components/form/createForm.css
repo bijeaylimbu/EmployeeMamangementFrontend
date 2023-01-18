@@ -1,0 +1,24 @@
+.mainPage{
+    width: 100%;
+}
+.employeeList{
+    float: left;
+    width: 40%;
+    border: 2px solid black;
+}
+
+.employeeEntry{
+  width: 55%;
+  float: left;
+  border: 2px solid black;
+}
+
+.qualificationDiv{
+  width: 50%;
+  float: left;
+}
+
+.markDiv{
+  width: 50%;
+  float: left;
+}
